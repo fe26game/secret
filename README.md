@@ -1,2 +1,1 @@
-# secret
-secret thing
+# 放不能示人的东西进hide中，不要在意tmp文件。
